@@ -1,1 +1,3 @@
-# ecommerce-sales-performance-analysis
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
