@@ -1,7 +1,8 @@
 # E-Commerce Sales Performance Analysis
 
 ## Project Overview
-This project analyzes global e-commerce sales data using SQL and Tableau to identify sales trends, product performance, customer segments, regional performance, and payment methods. The dashboard provides interactive visualizations to support business decision-making. The analysis was performed using SQL for data exploration and Tableau for interactive dashboard visualization.
+
+This project analyzes global e-commerce sales data using SQL and Tableau to identify the key factors affecting sales and profitability. The analysis provides data-driven insights and business recommendations to support decision-making and improve overall business performance through a dashboard.
 
 ---
 
