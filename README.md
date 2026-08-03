@@ -9,7 +9,7 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 ## Business Questions
 
 1.	How do monthly revenue and profit trends change over time?
-2.	Which product contribute is the most profitable?
+2.	Which product generates the highest profit?
 3.	Which customer segment is the most profitable?
 4.	Which country generate the highest sales and profit?
 5.	Which payment methods are most preferred by customers?
