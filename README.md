@@ -21,6 +21,7 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 
 - SQL
 - Tableau
+  
 ---
 
 ## Dataset
@@ -44,6 +45,7 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 🔗 **Dashboard Link: https://public.tableau.com/app/profile/alya.izdihar4832/viz/ecommercesalesperformanceanalysisbyTableau/GlobalE-CommerceSalesDashboard?publish=yes&showOnboarding=true**
 
 ---
+
 ## Key Insights
 
 - Total revenue reached **$484.6K**, generating a total profit of **$158.9K** with a **32.79% profit margin**.
@@ -57,15 +59,6 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 ---
 
 
-## Repository Contents
-
-| File | Description |
-|------|-------------|
-| `README.md` | Project documentation and summary |
-| `ecommerce sales performance analysis.sql` | SQL queries used for data exploration and analysis |
-| `ecommerce_dashboard.twb` | Tableau workbook |
-| `dashboard.png` | Dashboard preview image |
-
 ## Business Recommendations
 
 - Optimize sales strategies by using **October's** strong performance as a reference for improving sales during lower-performing months.
@@ -74,3 +67,15 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 - Use **Mexico** as a benchmark market to identify successful sales strategies that can be applied in lower-performing countries.
 - Collaborate with payment providers to offer attractive payment incentives and encourage customer transactions.
 - Implement targeted discount strategies while setting appropriate discount limits to maintain profitability.
+  
+---
+
+
+## Repository Contents
+
+| File | Description |
+|------|-------------|
+| `README.md` | Project documentation and summary |
+| `ecommerce sales performance analysis.sql` | SQL queries used for data exploration and analysis |
+| `ecommerce_dashboard.twb` | Tableau workbook |
+| `dashboard.png` | Dashboard preview image |
