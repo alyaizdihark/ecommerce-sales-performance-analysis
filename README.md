@@ -77,5 +77,5 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 |------|-------------|
 | `README.md` | Project documentation and summary |
 | `ecommerce sales performance analysis.sql` | SQL queries used for data exploration and analysis |
-| `ecommerce_dashboard.twb` | Tableau workbook |
+| `ecommerce dashboard.twb` | Tableau workbook |
 | `dashboard.png` | Dashboard preview image |
