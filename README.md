@@ -51,22 +51,22 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 - Total revenue reached **$484.6K**, generating a total profit of **$158.9K** with a **32.79% profit margin**.
 - Sales and profit fluctuated throughout the analysis period, with the highest performance recorded in **October**.
 - **Ergonomic Chair Office** was the most profitable product, generating the highest total profit.
-- The **Consumer** segment contributed the largest share of total sales.
-- **North America** generated the highest sales and profit among all regions.
+- The **Consumer** segment contributed the highest profit.
+- **Mexico** in the **North America** region generated the highest profit.
 - **Credit Card** was the most frequently used payment method.
-- Higher discount levels generally resulted in lower average profit.
-
+- Higher discount levels were associated with lower average profit
+  
 ---
 
 
 ## Business Recommendations
-
-- Optimize sales strategies by using **October's** strong performance as a reference for improving sales during lower-performing months.
-- Prioritize high-profit products by optimizing promotional efforts and ensuring product availability.
-- Continue prioritizing marketing strategies and promotional campaigns for the **Consumer** segment to maintain its contribution to overall sales.
-- Use **Mexico** as a benchmark market to identify successful sales strategies that can be applied in lower-performing countries.
-- Collaborate with payment providers to offer attractive payment incentives and encourage customer transactions.
-- Implement targeted discount strategies while setting appropriate discount limits to maintain profitability.
+ 
+- Ergonomic Office Chair generated the highest profit contribution. The company can prioritize high-profit products by optimizing promotions, improving inventory management, and ensuring product availability to maximize profitability.
+- The **Consumer** segment contributed the highest profit among all customer segments. Prioritize marketing strategies and promotional campaigns for the Consumer segment to maintain its contribution to overall profitability.
+- **Mexico** in the North America region generated the highest profit contribution. The company can use this market as a benchmark by optimizing promotions and ensuring the availability of top-performing products. These strategies can then be adapted to regions with lower profitability.
+- Credit Card was the most frequently used payment method. The company can collaborate with banks or payment providers to offer cashback, reward points, or 0% installment plans to increase transactions and maintain customer preference for this payment method.
+- The analysis shows that higher discount rates are associated with lower average profit. Therefore, the company can implement a targeted discount strategy by offering discounts only for selected products, customer segments, or promotional periods. In addition, setting a maximum discount limit can help attract customers while maintaining profitability.
+- Revenue and profit reached their highest levels in **October**. The company can evaluate the sales activities during this period and use them as a reference when planning sales strategies for months with lower performance.
   
 ---
 
