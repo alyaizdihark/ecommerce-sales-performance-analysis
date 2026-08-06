@@ -60,13 +60,13 @@ This project analyzes global e-commerce sales data using SQL and Tableau to iden
 
 
 ## Business Recommendations
- 
+
+- Revenue and profit reached their highest levels in **October**. The company can evaluate the sales activities during this period and use them as a reference when planning sales strategies for months with lower performance.
 - Ergonomic Office Chair generated the highest profit contribution. The company can prioritize high-profit products by optimizing promotions, improving inventory management, and ensuring product availability to maximize profitability.
 - The **Consumer** segment contributed the highest profit among all customer segments. Prioritize marketing strategies and promotional campaigns for the Consumer segment to maintain its contribution to overall profitability.
 - **Mexico** in the North America region generated the highest profit contribution. The company can use this market as a benchmark by optimizing promotions and ensuring the availability of top-performing products. These strategies can then be adapted to regions with lower profitability.
 - Credit Card was the most frequently used payment method. The company can collaborate with banks or payment providers to offer cashback, reward points, or 0% installment plans to increase transactions and maintain customer preference for this payment method.
 - The analysis shows that higher discount rates are associated with lower average profit. Therefore, the company can implement a targeted discount strategy by offering discounts only for selected products, customer segments, or promotional periods. In addition, setting a maximum discount limit can help attract customers while maintaining profitability.
-- Revenue and profit reached their highest levels in **October**. The company can evaluate the sales activities during this period and use them as a reference when planning sales strategies for months with lower performance.
   
 ---
 
